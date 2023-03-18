@@ -6,7 +6,7 @@ $(function () {
 });
 
 var infer = function () {
-  $("#output").html("Inferring...");
+  $("#output").html("Processing...");
   $("#resultContainer").show();
   $("html").scrollTop(100000);
 
