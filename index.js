@@ -81,7 +81,7 @@ var getSettingsFromForm = function (cb) {
   };
 
   var parts = [
-    "https://detect.roboflow.com/acne-vulgaris/1?api_key=TlIIZpPYOxrQM6CDTjLD&confidence=40&overlap=30&format=image&labels=off&stroke=2&ipo=images",
+    "https://detect.roboflow.com/acne-vulgaris/1?api_key=TlIIZpPYOxrQM6CDTjLD&confidence=40&overlap=30&format=image&labels=off&stroke=2&ipo=images&image=",
   ];
 
   //   confidence
